@@ -4,7 +4,7 @@ Created on Wed Oct 30 16:52:12 2019
 
 @author: (╯°□°)╯︵ ┻━┻
 """
-
+Usos de las bibliotecas: Pandas, Numpy y y matplotlib en el estudio de la Felicidad de los estudiantes de la Universidad Distrital
 import pandas as pd
 import numpy as np
 import math
